@@ -1,0 +1,263 @@
+body{
+    font-family: "Poppins", sans-serif;
+    padding: 80px;
+    background-color: rgb(226, 226, 226);
+    
+}
+#div1{
+    background-color: #009270;
+    display: flex;
+    align-items: center;
+}
+span{
+    color: white;
+    margin: 20px;
+}
+#plus{
+   color: black;
+   font-size:15px;
+   padding: 5px;
+   background-color: white;
+   border-radius: 20px;
+}
+#div2 {
+    background-color: #4a4a4a;
+    padding: 10px;
+}
+span:hover{
+    background-color: grey;
+    cursor: pointer;
+    
+    
+}
+
+.container{
+    display:flex;
+}
+
+#card1{
+    margin-top: 10px;
+    margin-right: 5px;
+    padding-left: 10px;
+    width: 320px;
+    height: 200px;
+    background: linear-gradient(to bottom, white 80%, rgba(230, 230, 230, 0.824) 20%);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#card2{
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    margin-left: 5px;
+    width: 320px;
+    height: 200px;
+    background: linear-gradient(to bottom, white 80%, rgba(230, 230, 230, 0.824) 20%);
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+#card3{
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    margin-left: 5px;
+    width: 320px;
+    height: 200px;
+    background: linear-gradient(to bottom, white 80%, rgba(230, 230, 230, 0.824) 20%);
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#card4{
+    margin-top: 10px;
+    margin-left: 5px;
+    padding-left: 10px;
+    width: 320px;
+    height: 200px;
+    background: linear-gradient(to bottom, white 80%, rgba(230, 230, 230, 0.824) 20%);
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#match1{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #100202;
+    font-size: 12px;
+}
+#butt1{
+    margin-left: 16px;
+    color:white;
+    padding: 4px 10px;
+    background-color: red;
+    border-radius: 50px;    
+}
+#day1{
+    color: red;
+    font-size: 12px;
+    position: absolute;
+    top: 350px;
+}
+#card1bottom{
+    margin-left:220px;
+    margin-top: 10px;
+    font-size:14px;
+}
+#match2{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #100202;
+    font-size: 12px;
+}
+#butt2{
+    margin-left: 6px;
+    color:white;
+    padding: 4px 10px;
+    background-color: red;
+    border-radius: 50px;
+}
+#sche1{
+    color: #A36501;
+    font-size: 12px;
+}
+#card2bottom{
+    margin-left:220px;
+    margin-top: 1px;
+    font-size:14px;
+}
+#match3{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #100202;
+    font-size: 12px;
+}
+#flags3 {
+    margin-left: 15px;
+}
+#card3bottom{
+    margin-left:85px;
+    font-size:14px;
+    margin-top: -10px;
+}
+#sche2{
+    color: #A36501;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#butt3{
+    margin-left:80px;
+    color: white;
+    padding: 4px 10px;
+    background-color: rgb(0, 145, 255);
+    border-radius: 50px;
+}
+#match4{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #100202;
+    font-size: 12px;
+}
+#flags{
+    margin-left:10px;
+}
+
+#card4bottom{
+    margin-left:85px;
+    font-size:14px;
+    margin-top: -10px;
+}
+#sche3{
+    color: #A36501;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#butt4{
+    margin-left:75px;
+    color: white;
+    padding: 4px 10px;
+    background-color: rgb(0, 145, 255);
+    border-radius: 50px;
+}
+#access{
+    color:black;
+    background-color: white;
+    margin-top:10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px; 
+}
+#access:hover{
+    cursor: pointer;
+}
+#qui{
+    margin-left:10px;
+    font-weight:bolder;
+}
+#acc{
+    margin-left:60px;
+   
+}
+#fan{
+    margin-left:80px;
+    background-color:rgb(225, 225, 225);
+}
+#see{
+    margin-left: 80px;
+    background-color:rgb(225, 225, 225);
+}
+#team{
+    margin-left: 80px;
+    background-color:rgb(225, 225, 225);
+}
+#cric{
+    margin-left: 80px;
+    background-color:rgb(225, 225, 225);
+}
+#cb{
+   margin-left: 40px;
+   background-color:rgb(225, 225, 225);
+}
+#news{
+    display: inline-block;
+    margin-top: 10px;
+    background-color: white;
+}
+#latest{
+    color: #009270;
+    font-weight: 600;
+    margin-left: 20px;
+}
+#newsone{
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+#ba{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+    width:500px;
+    height:356px;
+}
+#rohit{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 12px;
+    width:510px;
+    height:356px;
+    left: 900px;
+}
+
+
+
+
+
+
+
+
